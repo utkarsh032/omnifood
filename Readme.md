@@ -4,7 +4,7 @@ Omnifood is a modern and responsive web design project designed for a food deliv
 
 ## 📸 UI Preview
 
-![Omnifood UI Preview](./img/UI.pdf)
+![Omnifood UI Preview](./img/UI.png)
 
 ---
 
